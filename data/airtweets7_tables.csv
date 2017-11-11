@@ -1,0 +1,201 @@
+group,emojis,name,unicode,nn
+Activity,AMERICAN-FOOTBALL,American Football,1f3c8,2
+Activity,ARTIST-PALETTE,Artist Palette,1f3a8,2
+Activity,BASEBALL,Baseball,26be,1
+Activity,BOOKS,Books,1f4da,1
+Activity,CAMERA,Camera,1f4f7,3
+Scene,CAMPING,Camping,1f3d5,3
+Activity,CROSSED-FLAGS,Crossed Flags,1f38c,2
+Activity,FLAG-IN-HOLE,Flag In Hole,26f3,1
+Activity,FOLDED-HANDS,Folded Hands,1f64f,2
+Activity,GUITAR,Guitar,1f3b8,1
+Activity,ICE-HOCKEY,Ice Hockey,1f3d2,1
+Activity,ICE-SKATE,Ice Skate,26f8,1
+Activity,MAN-DANCING,Man Dancing,1f57a,1
+Activity,MICROPHONE,Microphone,1f3a4,2
+Activity,MOVIE-CAMERA,Movie Camera,1f3a5,4
+Activity,MUSICAL-NOTES,Musical Notes,1f3b6,7
+Activity,MUSICAL-SCORE,Musical Score,1f3bc,3
+Scene,NIGHT-WITH-STARS,Night With Stars,1f303,1
+Activity,OPEN-BOOK,Open Book,1f4d6,1
+Activity,PERSON-GOLFING,Person Golfing,1f3cc,1
+Activity,PERSON-RUNNING,Person Running,1f3c3,1
+Activity,PERSON-SURFING,Person Surfing,1f3c4,5
+Activity,PERSON-SWIMMING,Person Swimming,1f3ca,1
+Activity,PERSON-TAKING-BATH,Person Taking Bath,1f6c0,1
+Activity,RUNNING-SHOE,Running Shoe,1f45f,1
+Activity,SAXOPHONE,Saxophone,1f3b7,1
+Activity,SHOPPING-BAGS,Shopping Bags,1f6cd,3
+Activity,SKIS,Skis,1f3bf,1
+Activity,SLEEPING-FACE,Sleeping Face,1f634,1
+Activity,SLOT-MACHINE,Slot Machine,1f3b0,1
+Activity,TICKET,Ticket,1f3ab,1
+Activity,WOMAN-DANCING,Woman Dancing,1f483,1
+Activity,ZZZ,Zzz,1f4a4,2
+Animal,BUTTERFLY,Butterfly,1f98b,2
+Animal,DEER,Deer,1f98c,1
+Animal,DOG,Dog,1f415,1
+Animal,DOLPHIN,Dolphin,1f42c,1
+Animal,DRAGON,Dragon,1f409,1
+Animal,ELEPHANT,Elephant,1f418,2
+Animal,MONKEY-FACE,Monkey Face,1f435,1
+Animal,MOUSE-FACE,Mouse Face,1f42d,1
+Animal,OCTOPUS,Octopus,1f419,1
+Animal,OWL,Owl,1f989,2
+Animal,PANDA-FACE,Panda Face,1f43c,1
+Animal,PENGUIN,Penguin,1f427,1
+Animal,RHINOCEROS,Rhinoceros,1f98f,1
+Animal,SHEEP,Sheep,1f411,2
+Animal,TWO-HUMP-CAMEL,Two Hump Camel,1f42b,1
+Country,BELGIUM,Belgium,1f1e7-1f1ea,1
+Country,CANADA,Canada,1f1e8-1f1e6,2
+Country,FIJI,Fiji,1f1eb-1f1ef,1
+Country,FRANCE,France,1f1eb-1f1f7,1
+Country,GREECE,Greece,1f1ec-1f1f7,1
+Country,INDIA,India,1f1ee-1f1f3,1
+Country,IRELAND,Ireland,1f1ee-1f1ea,4
+Country,JAMAICA,Jamaica,1f1ef-1f1f2,1
+Country,JAPAN,Japan,1f1ef-1f1f5,1
+Country,MAP-OF-JAPAN,Map Of Japan,1f5fe,1
+Country,NETHERLANDS,Netherlands,1f1f3-1f1f1,1
+Country,NORWAY,Norway,1f1f3-1f1f4,1
+Country,SPAIN,Spain,1f1ea-1f1f8,1
+Country,UNITED-KINGDOM,United Kingdom,1f1ec-1f1e7,3
+Symbol,DIZZY,Dizzy,1f4ab,1
+Face,DIZZY-FACE,Dizzy Face,1f635,1
+Face,FACE-WITH-ROLLING-EYES,Face With Rolling Eyes,1f644,1
+Face,FLUSHED-FACE,Flushed Face,1f633,1
+Face,GRINNING-FACE-WITH-SMILING-EYES,Grinning Face With Smiling Eyes,1f601,1
+People,KISS,Kiss,1f48f,1
+Face,NERD-FACE,Nerd Face,1f913,1
+Face,SMILING-CAT-FACE-WITH-HEART-EYES,Smiling Cat Face With Heart Eyes,1f63b,1
+Face,SMILING-FACE-WITH-HEART-EYES,Smiling Face With Heart Eyes,1f60d,1
+Face,SMILING-FACE-WITH-OPEN-MOUTH-,Smiling Face With Open Mouth,1f604,1
+Food,BEER-MUG,Beer Mug,1f37a,4
+Food,BENTO-BOX,Bento Box,1f371,1
+Food,BIRTHDAY-CAKE,Birthday Cake,1f382,2
+Food,CLINKING-BEER-MUGS,Clinking Beer Mugs,1f37b,4
+Food,CLINKING-GLASSES,Clinking Glasses,1f942,1
+Food,COCKTAIL-GLASS,Cocktail Glass,1f378,1
+Food,CROISSANT,Croissant,1f950,1
+Food,EGGPLANT,Eggplant,1f346,1
+Food,FORK-AND-KNIFE-WITH-PLATE,Fork And Knife With Plate,1f37d,2
+Food,HAMBURGER,Hamburger,1f354,1
+Food,HOT-BEVERAGE,Hot Beverage,2615,4
+Food,MUSHROOM,Mushroom,1f344,1
+Food,PIZZA,Pizza,1f355,1
+Food,POULTRY-LEG,Poultry Leg,1f357,1
+Food,SHALLOW-PAN-OF-FOOD,Shallow Pan Of Food,1f958,1
+Food,SHEAF-OF-RICE,Sheaf Of Rice,1f33e,1
+Food,SHORTCAKE,Shortcake,1f370,1
+Food,STEAMING-BOWL,Steaming Bowl,1f35c,1
+Food,SUSHI,Sushi,1f363,1
+Food,TROPICAL-DRINK,Tropical Drink,1f379,3
+Food,TUMBLER-GLASS,Tumbler Glass,1f943,3
+Food,WINE-GLASS,Wine Glass,1f377,3
+People,BLOND-HAIRED-PERSON,Blond Haired Person,1f471,2
+People,BOY,Boy,1f466,2
+People,COWBOY-HAT-FACE,Cowboy Hat Face,1f920,1
+People,FAMILY,Family,1f46a,1
+People,GUARD,Guard,1f482,2
+People,HANDSHAKE,Handshake,1f91d,1
+People,MAN,Man,1f468,1
+People,MAN-AND-WOMAN-HOLDING-HANDS,Man And Woman Holding Hands,1f46b,3
+People,WOMAN,Woman,1f469,2
+Scene,BEACH-WITH-UMBRELLA,Beach With Umbrella,1f3d6,9
+Scene,CASTLE,Castle,1f3f0,2
+Scene,CITYSCAPE-AT-DUSK,Cityscape At Dusk,1f306,1
+Scene,DESERT,Desert,1f3dc,1
+Scene,DESERT-ISLAND,Desert Island,1f3dd,9
+Scene,HOUSE,House,1f3d8,2
+Scene,HOUSE,House,1f3e0,2
+Scene,JAPANESE-CASTLE,Japanese Castle,1f3ef,1
+Scene,MILKY-WAY,Milky Way,1f30c,2
+Scene,MOSQUE,Mosque,1f54c,1
+Scene,MOUNT-FUJI,Mount Fuji,1f5fb,1
+Scene,MOUNTAIN,Mountain,26f0,2
+Scene,NATIONAL-PARK,National Park,1f3de,1
+Scene,PALM-TREE,Palm Tree,1f334,4
+Scene,SNOW-CAPPED-MOUNTAIN,Snow Capped Mountain,1f3d4,1
+Scene,SUN,Sun,2600,2
+Scene,SUN-BEHIND-CLOUD,Sun Behind Cloud,26c5,1
+Scene,SUNRISE,Sunrise,1f305,6
+Scene,SUNRISE-OVER-MOUNTAINS,Sunrise Over Mountains,1f304,2
+Scene,SUNSET,Sunset,1f307,1
+Scene,TOKYO-TOWER,Tokyo Tower,1f5fc,3
+Scene,VOLCANO,Volcano,1f30b,2
+Scene,WATER-WAVE,Water Wave,1f30a,7
+Scene,WEDDING,Wedding,1f492,1
+Symbol,ALIEN,Alien,1f47d,2
+Symbol,ALIEN-MONSTER,Alien Monster,1f47e,1
+Symbol,BACKHAND-INDEX-POINTING-RIGHT,Backhand Index Pointing Right,1f449,2
+Symbol,BED,Bed,1f6cf,1
+Symbol,BLUE-HEART,Blue Heart,1f499,1
+Symbol,BOUQUET,Bouquet,1f490,1
+Symbol,BRIGHT-BUTTON,Bright Button,1f506,1
+Symbol,CHEQUERED-FLAG,Chequered Flag,1f3c1,1
+Symbol,CHRISTMAS-TREE,Christmas Tree,1f384,1
+Symbol,CONFETTI-BALL,Confetti Ball,1f38a,1
+Symbol,CROWN,Crown,1f451,1
+Symbol,DIRECT-HIT,Direct Hit,1f3af,1
+Symbol,ENVELOPE,Envelope,2709,1
+Symbol,EVERGREEN-TREE,Evergreen Tree,1f332,1
+Symbol,EYE,Eye,1f441,1
+Symbol,EYES,Eyes,1f440,1
+Symbol,FEMALE-SIGN,Female Sign,2640,3
+Symbol,FIRE,Fire,1f525,3
+Symbol,FIRE-ENGINE,Fire Engine,1f692,1
+Symbol,FIREWORKS,Fireworks,1f386,1
+Symbol,FIVE-O-CLOCK,Five O Clock,1f554,1
+Symbol,FLEUR-DE-LIS,Fleur De Lis,269c,1
+Symbol,FRAMED-PICTURE,Framed Picture,1f5bc,2
+Symbol,GLOBE-SHOWING-AMERICAS,Globe Showing Americas,1f30e,4
+Symbol,GLOBE-SHOWING-ASIA-AUSTRALIA,Globe Showing Asia Australia,1f30f,1
+Symbol,GLOBE-SHOWING-EUROPE-AFRICA,Globe Showing Europe Africa,1f30d,2
+Symbol,HEAR-NO-EVIL-MONKEY,Hear No Evil Monkey,1f649,1
+Symbol,HEART-SUIT,Heart Suit,2665,1
+Symbol,HIBISCUS,Hibiscus,1f33a,1
+Symbol,HIGH-VOLTAGE,High Voltage,26a1,1
+Symbol,LEAF-FLUTTERING-IN-WIND,Leaf Fluttering In Wind,1f343,1
+Symbol,MAPLE-LEAF,Maple Leaf,1f341,1
+Symbol,MIDDLE-FINGER,Middle Finger,1f595,1
+Symbol,OK-HAND,Ok Hand,1f44c,2
+Symbol,ONCOMING-POLICE-CAR,Oncoming Police Car,1f694,1
+Symbol,PEACE-SYMBOL,Peace Symbol,262e,1
+Symbol,PILL,Pill,1f48a,1
+Symbol,PISTOL,Pistol,1f52b,2
+Symbol,RAINBOW,Rainbow,1f308,1
+Symbol,RAISED-FIST,Raised Fist,270a,1
+Symbol,RED-HEART,Red Heart,2764,1
+Symbol,RED-PAPER-LANTERN,Red Paper Lantern,1f3ee,2
+Symbol,ROCKET,Rocket,1f680,2
+Symbol,SEAT,Seat,1f4ba,1
+Symbol,SEE-NO-EVIL-MONKEY,See No Evil Monkey,1f648,1
+Symbol,SHAMROCK,Shamrock,2618,1
+Symbol,SKULL,Skull,1f480,4
+Symbol,SNOWFLAKE,Snowflake,2744,1
+Symbol,SPARKLES,Sparkles,2728,1
+Symbol,SPEAK-NO-EVIL-MONKEY,Speak No Evil Monkey,1f64a,1
+Symbol,STATUE-OF-LIBERTY,Statue Of Liberty,1f5fd,1
+Symbol,SUN-WITH-FACE,Sun With Face,1f31e,3
+Symbol,SUNFLOWER,Sunflower,1f33b,1
+Symbol,SUNGLASSES,Sunglasses,1f576,1
+Symbol,SYRINGE,Syringe,1f489,1
+Scene,TENT,Tent,26fa,1
+Symbol,TROPHY,Trophy,1f3c6,4
+Symbol,TWO-HEARTS,Two Hearts,1f495,1
+Symbol,VICTORY-HAND,Victory Hand,270c,1
+Symbol,WORLD-MAP,World Map,1f5fa,1
+Transport,AIRPLANE,Airplane,2708,3
+Transport,AIRPLANE-DEPARTURE,Airplane Departure,1f6eb,1
+Transport,AUTOMOBILE,Automobile,1f697,1
+Transport,BICYCLE,Bicycle,1f6b2,1
+Transport,HELICOPTER,Helicopter,1f681,2
+Transport,HIGH-SPEED-TRAIN,High Speed Train,1f684,1
+Transport,HIGH-SPEED-TRAIN-WITH-BULLET-NOSE,High Speed Train With Bullet Nose,1f685,2
+Transport,LOCOMOTIVE,Locomotive,1f682,1
+Transport,MOTOR-BOAT,Motor Boat,1f6e5,2
+Transport,PASSENGER-SHIP,Passenger Ship,1f6f3,1
+Transport,PERSON-BIKING,Person Biking,1f6b4,2
+Transport,RAILWAY-TRACK,Railway Track,1f6e4,3
+Transport,SHIP,Ship,1f6a2,1

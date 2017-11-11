@@ -1,0 +1,210 @@
+tweetid,emojis,emoji_id,count,group,unicode,n,name,e_id
+,Center,,,,,,,
+,Country,,,Center,,,,
+,Transport,,,Center,,,,
+,Scene,,,Center,,,,
+,Activity,,,Center,,,,
+,Food,,,Center,,,,
+,Animal,,,Center,,,,
+,Symbol,,,Center,,,,
+,People,,,Center,,,,
+,Face,,,Center,,,,
+1,SUN,1,2,Scene,2600,2,Sun,171
+1,BEACH-WITH-UMBRELLA,2,9,Scene,1f3d6,9,Beach With Umbrella,9
+1,SUNRISE-OVER-MOUNTAINS,3,2,Scene,1f304,2,Sunrise Over Mountains,177
+2,HOT-BEVERAGE,4,4,Food,2615,4,Hot Beverage,84
+2,RUNNING-SHOE,5,1,Activity,1f45f,1,Running Shoe,146
+2,BICYCLE,6,1,Transport,1f6b2,1,Bicycle,14
+3,CANADA,7,2,Country,1f1e8-1f1e6,2,Canada,25
+3,SNOWFLAKE,8,1,Symbol,2744,1,Snowflake,165
+3,ICE-HOCKEY,9,1,Activity,1f3d2,1,Ice Hockey,86
+4,MAN-AND-WOMAN-HOLDING-HANDS,10,3,People,1f46b,3,Man And Woman Holding Hands,97
+4,GREECE,11,1,Country,1f1ec-1f1f7,1,Greece,71
+5,INDIA,13,1,Country,1f1ee-1f1f3,1,India,88
+5,FOLDED-HANDS,14,2,Activity,1f64f,2,Folded Hands,64
+5,LOCOMOTIVE,15,1,Transport,1f682,1,Locomotive,95
+6,VOLCANO,16,2,Scene,1f30b,2,Volcano,191
+6,PERSON-BIKING,17,2,Transport,1f6b4,2,Person Biking,129
+6,MONKEY-FACE,18,1,Animal,1f435,1,Monkey Face,104
+7,MOUNT-FUJI,19,1,Scene,1f5fb,1,Mount Fuji,107
+7,PERSON-RUNNING,20,1,Activity,1f3c3,1,Person Running,131
+7,FEMALE-SIGN,21,3,Symbol,2640,3,Female Sign,55
+7,LEAF-FLUTTERING-IN-WIND,22,1,Symbol,1f343,1,Leaf Fluttering In Wind,94
+8,MOVIE-CAMERA,23,4,Activity,1f3a5,4,Movie Camera,110
+8,PERSON-TAKING-BATH,24,1,Activity,1f6c0,1,Person Taking Bath,134
+8,HOUSE,25,1,Scene,1f3d8,1,House,85
+9,SMILING-FACE-WITH-OPEN-MOUTH-,26,1,Face,1f604,1,Smiling Face With Open Mouth,163
+9,BRIGHT-BUTTON,27,1,Symbol,1f506,1,Bright Button,21
+9,ZZZ,28,2,Activity,1f4a4,2,Zzz,198
+10,CAMPING,29,3,Scene,1f3d5,3,Camping,24
+10,UNITED-KINGDOM,30,3,Country,1f1ec-1f1e7,3,United Kingdom,189
+10,GUARD,31,2,People,1f482,2,Guard,73
+11,PERSON-SWIMMING,33,1,Activity,1f3ca,1,Person Swimming,133
+11,SUNRISE,34,6,Scene,1f305,6,Sunrise,176
+11,TENT,35,1,Scene,26fa,1,Tent,181
+12,NETHERLANDS,36,1,Country,1f1f3-1f1f1,1,Netherlands,116
+12,CLINKING-BEER-MUGS,38,4,Food,1f37b,4,Clinking Beer Mugs,30
+13,GRINNING-FACE-WITH-SMILING-EYES,39,1,Face,1f601,1,Grinning Face With Smiling Eyes,72
+13,SUN-WITH-FACE,40,3,Symbol,1f31e,3,Sun With Face,173
+13,WATER-WAVE,41,7,Scene,1f30a,7,Water Wave,192
+14,SUNSET,42,1,Scene,1f307,1,Sunset,178
+14,TROPICAL-DRINK,43,3,Food,1f379,3,Tropical Drink,185
+14,DESERT-ISLAND,44,9,Scene,1f3dd,9,Desert Island,40
+15,SHIP,46,1,Transport,1f6a2,1,Ship,154
+15,SUNFLOWER,47,1,Symbol,1f33b,1,Sunflower,174
+16,TOKYO-TOWER,49,3,Scene,1f5fc,3,Tokyo Tower,183
+16,SHOPPING-BAGS,50,3,Activity,1f6cd,3,Shopping Bags,155
+17,CHEQUERED-FLAG,51,1,Symbol,1f3c1,1,Chequered Flag,27
+17,TROPHY,52,4,Symbol,1f3c6,4,Trophy,184
+17,AUTOMOBILE,53,1,Transport,1f697,1,Automobile,6
+18,WINE-GLASS,54,3,Food,1f377,3,Wine Glass,194
+18,KISS,55,1,People,1f48f,1,Kiss,93
+19,DIRECT-HIT,58,1,Symbol,1f3af,1,Direct Hit,41
+19,ARTIST-PALETTE,59,2,Activity,1f3a8,2,Artist Palette,5
+19,PIZZA,60,1,Food,1f355,1,Pizza,137
+20,SLOT-MACHINE,61,1,Activity,1f3b0,1,Slot Machine,160
+20,WEDDING,63,1,Scene,1f492,1,Wedding,193
+21,VICTORY-HAND,64,1,Symbol,270c,1,Victory Hand,190
+21,RED-HEART,65,1,Symbol,2764,1,Red Heart,142
+21,MUSICAL-SCORE,66,3,Activity,1f3bc,3,Musical Score,113
+22,POULTRY-LEG,67,1,Food,1f357,1,Poultry Leg,138
+22,DIZZY,68,1,Symbol,1f4ab,1,Dizzy,42
+22,BUTTERFLY,69,2,Animal,1f98b,2,Butterfly,22
+22,MOSQUE,71,1,Scene,1f54c,1,Mosque,105
+22,SHALLOW-PAN-OF-FOOD,72,1,Food,1f958,1,Shallow Pan Of Food,150
+23,IRELAND,73,4,Country,1f1ee-1f1ea,4,Ireland,89
+23,CAMERA,74,3,Activity,1f4f7,3,Camera,23
+24,HIGH-VOLTAGE,77,1,Symbol,26a1,1,High Voltage,83
+26,MILKY-WAY,82,2,Scene,1f30c,2,Milky Way,103
+26,ALIEN,84,2,Symbol,1f47d,2,Alien,2
+27,TUMBLER-GLASS,85,3,Food,1f943,3,Tumbler Glass,186
+27,SHAMROCK,86,1,Symbol,2618,1,Shamrock,151
+28,BOOKS,90,1,Activity,1f4da,1,Books,18
+29,FACE-WITH-ROLLING-EYES,91,1,Face,1f644,1,Face With Rolling Eyes,53
+30,EVERGREEN-TREE,93,1,Symbol,1f332,1,Evergreen Tree,50
+30,RHINOCEROS,94,1,Animal,1f98f,1,Rhinoceros,144
+31,GUITAR,95,1,Activity,1f3b8,1,Guitar,74
+31,HAMBURGER,97,1,Food,1f354,1,Hamburger,75
+32,FRAMED-PICTURE,98,2,Symbol,1f5bc,2,Framed Picture,66
+32,SUSHI,99,1,Food,1f363,1,Sushi,179
+32,CITYSCAPE-AT-DUSK,100,1,Scene,1f306,1,Cityscape At Dusk,29
+33,BLOND-HAIRED-PERSON,101,2,People,1f471,2,Blond Haired Person,16
+33,ENVELOPE,102,1,Symbol,2709,1,Envelope,49
+33,OWL,103,2,Animal,1f989,2,Owl,123
+34,MOUNTAIN,106,2,Scene,26f0,2,Mountain,108
+35,BACKHAND-INDEX-POINTING-RIGHT,109,2,Symbol,1f449,2,Backhand Index Pointing Right,7
+35,OK-HAND,110,2,Symbol,1f44c,2,Ok Hand,120
+36,FIRE,111,3,Symbol,1f525,3,Fire,57
+37,HIGH-SPEED-TRAIN,114,1,Transport,1f684,1,High Speed Train,81
+37,SUN-BEHIND-CLOUD,115,1,Scene,26c5,1,Sun Behind Cloud,172
+37,NIGHT-WITH-STARS,117,1,Scene,1f303,1,Night With Stars,117
+37,COCKTAIL-GLASS,118,1,Food,1f378,1,Cocktail Glass,32
+37,CONFETTI-BALL,119,1,Symbol,1f38a,1,Confetti Ball,33
+38,SHEEP,121,2,Animal,1f411,2,Sheep,153
+39,FRANCE,123,1,Country,1f1eb-1f1f7,1,France,67
+39,HANDSHAKE,124,1,People,1f91d,1,Handshake,76
+39,DIZZY-FACE,125,1,Face,1f635,1,Dizzy Face,43
+41,BIRTHDAY-CAKE,129,2,Food,1f382,2,Birthday Cake,15
+41,CROSSED-FLAGS,130,2,Activity,1f38c,2,Crossed Flags,36
+41,RED-PAPER-LANTERN,131,2,Symbol,1f3ee,2,Red Paper Lantern,143
+43,MUSICAL-NOTES,135,7,Activity,1f3b6,7,Musical Notes,112
+43,DRAGON,137,1,Animal,1f409,1,Dragon,46
+44,SKULL,138,4,Symbol,1f480,4,Skull,158
+45,CLINKING-GLASSES,143,1,Food,1f942,1,Clinking Glasses,31
+46,FIVE-O-CLOCK,144,1,Symbol,1f554,1,Five O Clock,200
+47,SYRINGE,147,1,Symbol,1f489,1,Syringe,180
+47,PILL,148,1,Symbol,1f48a,1,Pill,135
+47,MUSHROOM,149,1,Food,1f344,1,Mushroom,111
+48,EYE,150,1,Symbol,1f441,1,Eye,51
+48,NATIONAL-PARK,151,1,Scene,1f3de,1,National Park,114
+49,PEACE-SYMBOL,153,1,Symbol,262e,1,Peace Symbol,127
+49,DOG,154,1,Animal,1f415,1,Dog,44
+50,RAILWAY-TRACK,156,3,Transport,1f6e4,3,Railway Track,139
+50,WOMAN,158,2,People,1f469,2,Woman,195
+51,MAP-OF-JAPAN,160,1,Country,1f5fe,1,Map Of Japan,99
+51,FAMILY,161,1,People,1f46a,1,Family,54
+51,HIGH-SPEED-TRAIN-WITH-BULLET-NOSE,162,2,Transport,1f685,2,High Speed Train With Bullet Nose,82
+52,EGGPLANT,163,1,Food,1f346,1,Eggplant,47
+52,GLOBE-SHOWING-AMERICAS,165,4,Symbol,1f30e,4,Globe Showing Americas,68
+53,DEER,166,1,Animal,1f98c,1,Deer,38
+53,PISTOL,167,2,Symbol,1f52b,2,Pistol,136
+53,FORK-AND-KNIFE-WITH-PLATE,168,2,Food,1f37d,2,Fork And Knife With Plate,65
+54,JAMAICA,170,1,Country,1f1ef-1f1f2,1,Jamaica,90
+55,GLOBE-SHOWING-EUROPE-AFRICA,173,2,Symbol,1f30d,2,Globe Showing Europe Africa,70
+55,GLOBE-SHOWING-ASIA-AUSTRALIA,174,1,Symbol,1f30f,1,Globe Showing Asia Australia,69
+56,COWBOY-HAT-FACE,175,1,People,1f920,1,Cowboy Hat Face,34
+56,MICROPHONE,176,2,Activity,1f3a4,2,Microphone,101
+57,BENTO-BOX,179,1,Food,1f371,1,Bento Box,13
+57,PANDA-FACE,180,1,Animal,1f43c,1,Panda Face,125
+58,BOUQUET,183,1,Symbol,1f490,1,Bouquet,19
+59,SPEAK-NO-EVIL-MONKEY,184,1,Symbol,1f64a,1,Speak No Evil Monkey,168
+59,SEE-NO-EVIL-MONKEY,185,1,Symbol,1f648,1,See No Evil Monkey,149
+59,HEAR-NO-EVIL-MONKEY,186,1,Symbol,1f649,1,Hear No Evil Monkey,77
+60,ROCKET,187,2,Symbol,1f680,2,Rocket,145
+60,SPARKLES,188,1,Symbol,2728,1,Sparkles,167
+61,BELGIUM,192,1,Country,1f1e7-1f1ea,1,Belgium,12
+62,AIRPLANE,193,3,Transport,2708,3,Airplane,0
+62,STATUE-OF-LIBERTY,194,1,Symbol,1f5fd,1,Statue Of Liberty,169
+62,SHORTCAKE,195,1,Food,1f370,1,Shortcake,156
+63,SUNGLASSES,198,1,Symbol,1f576,1,Sunglasses,175
+64,MAN,199,1,People,1f468,1,Man,96
+64,BOY,201,2,People,1f466,2,Boy,20
+64,TICKET,203,1,Activity,1f3ab,1,Ticket,182
+64,DESERT,206,1,Scene,1f3dc,1,Desert,39
+65,ELEPHANT,208,2,Animal,1f418,2,Elephant,48
+65,DOLPHIN,209,1,Animal,1f42c,1,Dolphin,45
+65,TWO-HUMP-CAMEL,210,1,Animal,1f42b,1,Two Hump Camel,188
+66,PALM-TREE,211,4,Scene,1f334,4,Palm Tree,124
+66,HIBISCUS,212,1,Symbol,1f33a,1,Hibiscus,80
+66,SHEAF-OF-RICE,213,1,Food,1f33e,1,Sheaf Of Rice,152
+67,SEAT,215,1,Symbol,1f4ba,1,Seat,148
+69,MOUSE-FACE,221,1,Animal,1f42d,1,Mouse Face,109
+70,MAN-DANCING,225,1,Activity,1f57a,1,Man Dancing,98
+72,OCTOPUS,230,1,Animal,1f419,1,Octopus,119
+73,BLUE-HEART,232,1,Symbol,1f499,1,Blue Heart,17
+73,BASEBALL,233,1,Activity,26be,1,Baseball,8
+74,BED,235,1,Symbol,1f6cf,1,Bed,10
+74,ONCOMING-POLICE-CAR,237,1,Symbol,1f694,1,Oncoming Police Car,121
+75,EYES,238,1,Symbol,1f440,1,Eyes,52
+75,SPAIN,239,1,Country,1f1ea-1f1f8,1,Spain,166
+76,FIREWORKS,241,1,Symbol,1f386,1,Fireworks,59
+76,MOTOR-BOAT,243,2,Transport,1f6e5,2,Motor Boat,106
+77,SMILING-CAT-FACE-WITH-HEART-EYES,246,1,Face,1f63b,1,Smiling Cat Face With Heart Eyes,161
+78,CASTLE,247,2,Scene,1f3f0,2,Castle,26
+78,CROWN,249,1,Symbol,1f451,1,Crown,37
+79,WORLD-MAP,250,1,Symbol,1f5fa,1,World Map,197
+80,PERSON-SURFING,253,5,Activity,1f3c4,5,Person Surfing,132
+80,ALIEN-MONSTER,255,1,Symbol,1f47e,1,Alien Monster,3
+81,MAPLE-LEAF,256,1,Symbol,1f341,1,Maple Leaf,100
+82,PERSON-GOLFING,259,1,Activity,1f3cc,1,Person Golfing,130
+82,FIJI,261,1,Country,1f1eb-1f1ef,1,Fiji,56
+83,HELICOPTER,264,2,Transport,1f681,2,Helicopter,79
+84,BEER-MUG,265,4,Food,1f37a,4,Beer Mug,11
+84,PASSENGER-SHIP,267,1,Transport,1f6f3,1,Passenger Ship,126
+85,JAPAN,268,1,Country,1f1ef-1f1f5,1,Japan,91
+85,STEAMING-BOWL,269,1,Food,1f35c,1,Steaming Bowl,170
+85,JAPANESE-CASTLE,270,1,Scene,1f3ef,1,Japanese Castle,92
+88,RAISED-FIST,277,1,Symbol,270a,1,Raised Fist,141
+88,MIDDLE-FINGER,278,1,Symbol,1f595,1,Middle Finger,102
+89,AMERICAN-FOOTBALL,281,2,Activity,1f3c8,2,American Football,4
+90,CHRISTMAS-TREE,283,1,Symbol,1f384,1,Christmas Tree,28
+90,PENGUIN,284,1,Animal,1f427,1,Penguin,128
+90,ICE-SKATE,285,1,Activity,26f8,1,Ice Skate,87
+91,TWO-HEARTS,288,1,Symbol,1f495,1,Two Hearts,187
+92,RAINBOW,289,1,Symbol,1f308,1,Rainbow,140
+93,FIRE-ENGINE,292,1,Symbol,1f692,1,Fire Engine,58
+93,WOMAN-DANCING,294,1,Activity,1f483,1,Woman Dancing,196
+94,AIRPLANE-DEPARTURE,295,1,Transport,1f6eb,1,Airplane Departure,1
+95,FLEUR-DE-LIS,299,1,Symbol,269c,1,Fleur De Lis,62
+95,SAXOPHONE,301,1,Activity,1f3b7,1,Saxophone,147
+96,HEART-SUIT,304,1,Symbol,2665,1,Heart Suit,78
+97,SKIS,307,1,Activity,1f3bf,1,Skis,157
+98,FLAG-IN-HOLE,310,1,Activity,26f3,1,Flag In Hole,61
+99,SNOW-CAPPED-MOUNTAIN,312,1,Scene,1f3d4,1,Snow Capped Mountain,164
+99,NORWAY,313,1,Country,1f1f3-1f1f4,1,Norway,118
+101,SMILING-FACE-WITH-HEART-EYES,317,1,Face,1f60d,1,Smiling Face With Heart Eyes,162
+101,NERD-FACE,318,1,Face,1f913,1,Nerd Face,115
+101,FLUSHED-FACE,319,1,Face,1f633,1,Flushed Face,63
+103,OPEN-BOOK,323,1,Activity,1f4d6,1,Open Book,122
+103,CROISSANT,324,1,Food,1f950,1,Croissant,35
+103,SLEEPING-FACE,325,1,Activity,1f634,1,Sleeping Face,159
