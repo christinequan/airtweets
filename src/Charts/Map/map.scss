@@ -1,0 +1,27 @@
+@import '../../colors';
+
+.mapBox{
+  width:100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+svg.map{
+  max-width: 100vw;
+  max-height: 100%;
+  fill: $foggy;
+  // transform:scaleY(1.1);
+  // stroke: "#FFFFFF";
+  // stroke-width: 0.5;
+
+}
+
+image.emoji  {
+  width: 7%;
+  height: 7%;
+  transform: translate(-28%, -28%);
+
+}

@@ -1,0 +1,28 @@
+@import '../../colors';
+
+.group{
+  fill: $rausch;
+
+  &:hover{
+    fill:$kazan;
+    a{
+      &:link{fill:$rausch}
+      &:hover{fill:$kazan}
+      &:active{fill:$kazan}
+      &:visited{fill:$kazan}
+      &:focus{fill:$kazan}
+    }
+
+
+    text:not(.numLab){
+      fill: $kazan;
+      stroke: $kazan;
+    }
+  }
+
+}
+
+.numLab {
+  fill: white;
+
+}

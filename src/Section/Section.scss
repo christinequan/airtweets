@@ -1,0 +1,82 @@
+@import '../colors';
+
+h1, p{
+  margin: 0;
+}
+
+section {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  box-sizing: border-box;
+  display: grid;
+  grid-template-areas: 'story' 'visual';
+  grid-template-columns: 1fr 1.5fr;
+  overflow-x: hidden;
+
+  &#intro{
+    grid-template-areas: 'story';
+    grid-template-columns: 1fr;
+    background-color: $rausch;
+    padding: 0% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.story, .visual {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2.5%;
+  box-sizing: border-box;
+}
+
+.story{
+  grid-area: 'story';
+  background-color: $rausch;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.visual{
+  grid-area: 'visual';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &.index-2{
+    display: flex;
+    flex-direction: column;
+  }
+
+}
+
+img{
+  max-width: 95%;
+  max-height: 95%;
+  outline: 1px $rausch dotted;
+}
+
+.index-2 {
+  // background-color: aqua;
+}
+
+.vizbox{
+  height: 95%;
+  width: 95%;
+  // background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

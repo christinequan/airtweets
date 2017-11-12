@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Tenor+Sans');
+@import 'colors';
+
+
+body {
+  font-family: 'Tenor Sans', sans-serif;
+  color: white;
+  margin: 0 0 0 0;
+  box-sizing: border-box;
+  *{
+    box-sizing: border-box;
+  }
+}
+
+.buttonbox{
+  width: 100%
+  display flex;
+  justify-content: space-around;
+}
+
+button {
+  background: $foggy;
+  color: white;
+  border: 0;
+  height: 75%;
+  padding: 0.8em;
+  margin: 0em 1em;
+
+  &.selected{
+    background: $kazan;
+  }
+}
+
+.birdimg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30%;
+  width: 80%;
+
+  .birdpath{
+    width: 90%;
+
+    .decorate{
+      width: 100%;
+    }
+  }
+
+
+  img {
+    width: 18%;
+    // height: 18%;
+    transform: translate(0, -55%);
+  }
+}
+
+video {
+  max-width: 95%;
+  max-height: 95%;
+}
+
+#birdpath{
+  fill:none;
+  stroke: $kazan;
+  stroke-width: 0.2em;
+  transform: scale(0.2, 0.2);
+
+  // stroke-dasharray: 1000;
+  // stroke-dashoffset: 1000;
+  // animation: dash 5s linear forwards;
+}
+
+// @keyframes dashline {
+//   to{
+//     stroke-dashoffset: 0;
+//   }
+// }
+svg{
+  width: 95%;
+
+  &:not(.decorate){
+    height: 95%;
+  }
+}
