@@ -143,7 +143,7 @@ Symbol,,EYES,Eyes,1f440,1
 Symbol,,FEMALE-SIGN,Female Sign,2640,3
 Symbol,,FIRE,Fire,1f525,3
 Symbol,,FIRE-ENGINE,Fire Engine,1f692,1
-Scene,City,FIREWORKS,Fireworks,1f386,1
+Scene,,FIREWORKS,Fireworks,1f386,1
 Symbol,,FIVE-O-CLOCK,Five O Clock,1f554,1
 Symbol,,FLEUR-DE-LIS,Fleur De Lis,269c,1
 Symbol,,FRAMED-PICTURE,Framed Picture,1f5bc,2
@@ -151,7 +151,7 @@ Symbol,,GLOBE-SHOWING-AMERICAS,Globe Showing Americas,1f30e,4
 Symbol,,GLOBE-SHOWING-ASIA-AUSTRALIA,Globe Showing Asia Australia,1f30f,1
 Symbol,,GLOBE-SHOWING-EUROPE-AFRICA,Globe Showing Europe Africa,1f30d,2
 Symbol,,HEAR-NO-EVIL-MONKEY,Hear No Evil Monkey,1f649,1
-Symbol,Heart,HEART-SUIT,Heart Suit,2665,1
+Symbol,,HEART-SUIT,Heart Suit,2665,1
 Symbol,,HIBISCUS,Hibiscus,1f33a,1
 Symbol,,HIGH-VOLTAGE,High Voltage,26a1,1
 Scene,Nature,LEAF-FLUTTERING-IN-WIND,Leaf Fluttering In Wind,1f343,1
@@ -162,14 +162,14 @@ Symbol,,PEACE-SYMBOL,Peace Symbol,262e,1
 Symbol,,PISTOL,Pistol,1f52b,2
 Symbol,,RAINBOW,Rainbow,1f308,1
 Symbol,,RAISED-FIST,Raised Fist,270a,1
-Symbol,Heart,RED-HEART,Red Heart,2764,1
+Symbol,,RED-HEART,Red Heart,2764,1
 Symbol,,RED-PAPER-LANTERN,Red Paper Lantern,1f3ee,2
-Symbol,Rocket,ROCKET,Rocket,1f680,2
+Symbol,,ROCKET,Rocket,1f680,2
 Symbol,,SEAT,Seat,1f4ba,1
 Symbol,,SEE-NO-EVIL-MONKEY,See No Evil Monkey,1f648,1
 Symbol,,SHAMROCK,Shamrock,2618,1
 Symbol,,SKULL,Skull,1f480,4
-Scene,Weather,SNOWFLAKE,Snowflake,2744,1
+Symbol,,SNOWFLAKE,Snowflake,2744,1
 Symbol,,SPARKLES,Sparkles,2728,1
 Symbol,,SPEAK-NO-EVIL-MONKEY,Speak No Evil Monkey,1f64a,1
 Scene,Landmark,STATUE-OF-LIBERTY,Statue Of Liberty,1f5fd,1
@@ -178,7 +178,7 @@ Symbol,,SUNFLOWER,Sunflower,1f33b,1
 Symbol,,SUNGLASSES,Sunglasses,1f576,1
 Scene,Nature,TENT,Tent,26fa,1
 Symbol,,TROPHY,Trophy,1f3c6,4
-Symbol,Heart,TWO-HEARTS,Two Hearts,1f495,1
+Symbol,,TWO-HEARTS,Two Hearts,1f495,1
 Symbol,,VICTORY-HAND,Victory Hand,270c,1
 Symbol,,WORLD-MAP,World Map,1f5fa,1
 Transport,Air,AIRPLANE,Airplane,2708,3
