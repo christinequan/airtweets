@@ -14,7 +14,12 @@ const Tweet = () => (
 
         <div className='story'>
           <h1> Where our story begins: a simple tweet </h1>
-          <p> Airbnb asked twitter: 'Descibe your dream trip in 3 emojis' </p>
+          <p> Airbnb asked twitter: <br/> <i>'Descibe your dream trip in 3 emojis' </i> </p> <br/>
+          <p> I saw this and realized it was basically a mini survey.
+            So I thought it would be fun to analyze the responses and see
+            if I could learn anything about what people say they are looking for in
+            their dream trips.
+          </p>
           <div className='birdimg'>
             <div className='birdpath'>
             <svg className='decorate' viewBox='0 0 100 100'>

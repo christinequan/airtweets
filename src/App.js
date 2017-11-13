@@ -7,7 +7,7 @@ import Preloader from './Preloader/Preloader'
 // import { loadAllData } from './data/DataHandling';
 import {Intro, Tweet} from './Intro'
 import Section from './Section/Section';
-import {section_props} from './Section_Props';
+import {section_props, section_order} from './Section_Props';
 import CategoryBarChart from './Charts/CategoryBarChart/CategoryBarChart';
 import Map from './Charts/Map/Map';
 import Chord from './Charts/Chord/Chord';
@@ -66,17 +66,13 @@ class App extends Component {
           </div>
         </Section>
         <Section {...section_props.map}>
-          {/* <Map map={this.state.map}/> */}
           <Map/>
         </Section>
-        {this.state.categories.map(d =>{
-          if (d.group === 'Country'){return null}
-          else return(
-            <Section key={d.group} group={d.group} {...section_props[d.group]}>
-              <Table data={this.state.tables} cat={d.group}/>
+        {section_order.map(section => (
+            <Section key={section} group={section} {...section_props[section]}>
+              <Table data={this.state.tables} cat={section}/>
             </Section>
-          )
-        })}
+          ))}
         <Section {...section_props.pairs}>
           <Chord/>
         </Section>

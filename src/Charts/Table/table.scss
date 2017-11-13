@@ -12,7 +12,8 @@
   img{
     outline: 0;
     box-sizing: border-box;
-    // border-radius: 100%;
+    max-width: 80%;
+    height: auto;
 
     &:hover{
       transform: scale(1.1, 1.1);
@@ -21,5 +22,6 @@
 
   p{
     color: $rausch;
+    font-size: 0.8em;
   }
 }

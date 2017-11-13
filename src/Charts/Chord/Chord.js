@@ -34,19 +34,19 @@ class Chord extends Component{
     this.svg_dim = this.ref.getBoundingClientRect();
     // get/set the dimensions of the svg
     this.outerRadius = this.svg_dim.width/2 * 0.78;
-    this.innerRadius = this.outerRadius - 10;
-    // this.cluster_circ = this.ref !== null && d3.cluster().size([360, innerRadius]);
-    // this.cluster_emoj = this.ref !== null && d3.cluster().size([360, outerRadius]);
-    // console.log(this.emoji_network);
+    this.middleRadius = this.outerRadius - 5
+    this.innerRadius = this.outerRadius - 15;
+
 
     d3.queue()
       .defer(d3.csv, './data/airtweets6_hier.csv')
       .defer(d3.csv, './data/airtweets_pairs.csv')
-      .await((error, airtweets, pairs) => {
+      .await((error, hier, pairs) => {
         if (error) throw error;
-        let data = processData(airtweets);
+        let data = processData(hier);
         this.createEmojiNetwork(pairs);
-        this.setState({node: data, pairs: pairs});
+        // this.getGroupCoords(hier);
+        this.setState({node: data, pairs: pairs, hover:false});
       })
   }
 
@@ -65,6 +65,15 @@ class Chord extends Component{
     })
 
     return(this.emoji_network);
+  }
+
+  getGroupCoords(hier){
+    let cluster_g = d3.cluster().size([360, this.outerRadius]);
+    const maxCallback = (max, cur) => Math.max(max, cur);
+    console.log(cluster_g(hier));
+    // let max = groups.map(node => node.children).reduce(maxCallback, -Infinity);
+    // console.log('MAX', groups);
+    // cluster_group(this.state.node).leaves().map(d => console.log(d))
   }
 
   drawCircles(d){
@@ -91,6 +100,7 @@ class Chord extends Component{
       emojiOutCallback: this.emojiOutCallback,
       emoji_network: this.emoji_network,
       current: this.state.currentNodes.includes(d.data.emojis) ? true : false,
+      hover: this.state.hover,
     }
     return (<Emoji {...props}/>)
   }
@@ -99,11 +109,11 @@ class Chord extends Component{
     let nodes = this.emoji_network[emoji_selected].nodes;
     let currentNodes = [...[emoji_selected], ...nodes];
     let currentLinks = this.emoji_network[emoji_selected].links;
-    this.setState({currentNodes: currentNodes, currentLinks: currentLinks});
+    this.setState({currentNodes: currentNodes, currentLinks: currentLinks, hover:true});
   }
 
   emojiOutCallback(){
-    this.setState({currentNodes: [], currentLinks: []});
+    this.setState({currentNodes: [], currentLinks: [], hover:false});
   }
 
   drawLinks(d){
@@ -124,7 +134,7 @@ class Chord extends Component{
 
   render(){
     let cluster_circ = this.ref !== null && d3.cluster().size([360, this.innerRadius]);
-    let cluster_emoj = this.ref !== null && d3.cluster().size([360, this.outerRadius]);
+    let cluster_emoj = this.ref !== null && d3.cluster().size([360, this.middleRadius]);
 
     return(
       <svg ref={(ref)=>{this.ref=ref}} className='chord'>
@@ -133,7 +143,6 @@ class Chord extends Component{
           cluster_circ(this.state.node).leaves().map(d => this.drawCircles(d))}
         {this.state.node.hasOwnProperty('children') &&
            cluster_emoj(this.state.node).leaves().map(d => this.drawEmojis(d))}
-           {/* {console.log(this.emoji_network)} */}
       </svg>
     )
   }

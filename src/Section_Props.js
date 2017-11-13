@@ -1,23 +1,25 @@
 const section_props = {
   'categories': {
     'title':'100+ responses later',
-     text: 'Total: Total times a category appeared in the responses \n \
-     Unique: Number of unique emojis that appeared for each category \n \
-     Percent: Percent of unique emojis that appeared per category ',
+     text: 'Total denotes the total number of times a category appeared in the responses. \
+     Unique is the number of unique emojis that appeared in each category \
+     And Percent is the percentage of unique emojis that appeared per category \
+     It\'s  interesting to note which categories have the most number of unique emojis \
+     and which actually have duplicate emojis show up.',
     },
     'twitter': {
       'title': 'Twitter Post',
     },
     'map': {
-      'title': 'Countries Mentioned in Emoji',
-      'text': 'Most countries (9/14) just show up once but Ireland, UK, \
+      'title': 'Countries',
+      'text': 'Most countries (9 out of 14) just show up once but Ireland, UK, \
       Canada, and Japan all show up multiple times. European countries are \
-      highly represented in this survey.'
+      highly represented as dream destinations in this survey.'
     },
     'pairs':{
       title: 'Emoji Connection',
       text: 'Hover over an emoji to see which emojis it is linked to in responses. \
-      The dots on the inside are a meaasure of how frequently the emoji popped up in total. '
+      The dots on the inside reflect how frequently the emoji appeared in the survey. '
     },
     'Transport':{
       title: 'Have Wheels? Will Travel',
@@ -28,23 +30,26 @@ const section_props = {
     },
     'Scene':{
       title: 'Scenes',
-      text: 'With scenes, we see that one-third are unique. We have 23 unique emojis. \
+      text: 'Travel is about going places and seeing those postcard scenes. \
+      These emojis present some of those dream scenic experiences. \
       Beaches, islands, and waves (all evoking island and beach getaways) are the most popular. \
       This is followed by landmark type places such as castles and towers. \
-      Then there are nature scens such as sunrises and mountains as well as cityscapes. '
+      Then there are nature scenes such as sunrises and mountains as well as cityscapes. '
     },
     'Activity':{
       title:'Activities',
-      text: 'The activity section features a lot of music (musical notes, dancing, saxaphones). \
-      There are some movie cameras for seeing the filming for a movie (but some of those tweets \
-        are from people complaining about hidden cameras in airbnb). The second most popular \
-         activity is surfing...this is expected since there were so many beach scenes requested. \
-         Sports were also a popular type of activity in the responses.'
+      text: 'Traveling is about more than just taking in pretty scenery. \
+      It\'s also about doing things and having experiences. \
+      This section features emojis that represent some of those desired experiences. \
+      There is a lot of music (musical notes, dancing, saxophones). \
+      The second most popular activity is surfing but this is expected since there were so many beach scenes requested. \
+      Sports, in general, were also a popular type of activity in the responses.'
     },
     'Food':{
       title:'Food',
-      text: 'Food-related emojis showed up quite frequently. \
-      We see tht beverages actually account for some of the more popular food emojis.'
+      text: 'What\'s travel without food? For some people (like me), travel is all about food so \
+      food-related emojis showed up quite frequently. \
+      We see that beverages actually account for some of the more popular food emojis.'
     },
     'Animal':{
       title: 'Animals',
@@ -67,4 +72,6 @@ const section_props = {
     }
   };
 
-export {section_props};
+const section_order = ['Transport', 'Scene', 'Activity', 'Food', 'Animal', 'Symbol', 'Face', 'People'];
+
+export {section_props, section_order};
