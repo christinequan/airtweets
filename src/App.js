@@ -4,7 +4,6 @@ import * as d3 from 'd3';
 //local
 import './App.min.css';
 import Preloader from './Preloader/Preloader'
-// import { loadAllData } from './data/DataHandling';
 import {Intro, Tweet} from './Intro'
 import Section from './Section/Section';
 import {section_props, section_order} from './Section_Props';
@@ -12,7 +11,6 @@ import CategoryBarChart from './Charts/CategoryBarChart/CategoryBarChart';
 import Map from './Charts/Map/Map';
 import Chord from './Charts/Chord/Chord';
 import Table from './Charts/Table/Table';
-// import {CategoryBarChart, Map, Chord, Table} from './Charts'
 
 class App extends Component {
   constructor(){
