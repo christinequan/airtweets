@@ -82,11 +82,10 @@ Food,EGGPLANT,Eggplant,1f346,1
 Food,FORK-AND-KNIFE-WITH-PLATE,Fork And Knife With Plate,1f37d,2
 Food,HAMBURGER,Hamburger,1f354,1
 Food,HOT-BEVERAGE,Hot Beverage,2615,4
-Food,MUSHROOM,Mushroom,1f344,1
 Food,PIZZA,Pizza,1f355,1
 Food,POULTRY-LEG,Poultry Leg,1f357,1
 Food,SHALLOW-PAN-OF-FOOD,Shallow Pan Of Food,1f958,1
-Food,SHEAF-OF-RICE,Sheaf Of Rice,1f33e,1
+Symbol,SHEAF-OF-RICE,Sheaf Of Rice,1f33e,1
 Food,SHORTCAKE,Shortcake,1f370,1
 Food,STEAMING-BOWL,Steaming Bowl,1f35c,1
 Food,SUSHI,Sushi,1f363,1
@@ -158,11 +157,9 @@ Symbol,HIBISCUS,Hibiscus,1f33a,1
 Symbol,HIGH-VOLTAGE,High Voltage,26a1,1
 Symbol,LEAF-FLUTTERING-IN-WIND,Leaf Fluttering In Wind,1f343,1
 Symbol,MAPLE-LEAF,Maple Leaf,1f341,1
-Symbol,MIDDLE-FINGER,Middle Finger,1f595,1
-Symbol,OK-HAND,Ok Hand,1f44c,2
+Symbol,OK-HAND,Ok Hand,1f44c,1
 Symbol,ONCOMING-POLICE-CAR,Oncoming Police Car,1f694,1
 Symbol,PEACE-SYMBOL,Peace Symbol,262e,1
-Symbol,PILL,Pill,1f48a,1
 Symbol,PISTOL,Pistol,1f52b,2
 Symbol,RAINBOW,Rainbow,1f308,1
 Symbol,RAISED-FIST,Raised Fist,270a,1
@@ -180,7 +177,6 @@ Symbol,STATUE-OF-LIBERTY,Statue Of Liberty,1f5fd,1
 Symbol,SUN-WITH-FACE,Sun With Face,1f31e,3
 Symbol,SUNFLOWER,Sunflower,1f33b,1
 Symbol,SUNGLASSES,Sunglasses,1f576,1
-Symbol,SYRINGE,Syringe,1f489,1
 Scene,TENT,Tent,26fa,1
 Symbol,TROPHY,Trophy,1f3c6,4
 Symbol,TWO-HEARTS,Two Hearts,1f495,1
