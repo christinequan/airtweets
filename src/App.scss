@@ -26,6 +26,12 @@ button {
   padding: 0.8em;
   margin: 0em 1em;
 
+  &:hover:not(.selected){
+    background: $kazan;
+    opacity: 0.68;
+    outline: $kazan 1px solid;
+  }
+
   &.selected{
     background: $kazan;
   }
