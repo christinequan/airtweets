@@ -7,7 +7,7 @@ Activity,,CAMERA,Camera,1f4f7,3
 Scene,Nature,CAMPING,Camping,1f3d5,3
 Activity,Sport,CROSSED-FLAGS,Crossed Flags,1f38c,2
 Activity,Sport,FLAG-IN-HOLE,Flag In Hole,26f3,1
-Activity,,FOLDED-HANDS,Folded Hands,1f64f,2
+Activity,R&R,FOLDED-HANDS,Folded Hands,1f64f,2
 Activity,Music,GUITAR,Guitar,1f3b8,1
 Activity,Sport,ICE-HOCKEY,Ice Hockey,1f3d2,1
 Activity,Sport,ICE-SKATE,Ice Skate,26f8,1
@@ -16,7 +16,7 @@ Activity,Music,MICROPHONE,Microphone,1f3a4,2
 Activity,,MOVIE-CAMERA,Movie Camera,1f3a5,4
 Activity,Music,MUSICAL-NOTES,Musical Notes,1f3b6,7
 Activity,Music,MUSICAL-SCORE,Musical Score,1f3bc,3
-Scene,Nature,NIGHT-WITH-STARS,Night With Stars,1f303,1
+Scene,City,NIGHT-WITH-STARS,Night With Stars,1f303,1
 Activity,R&R,OPEN-BOOK,Open Book,1f4d6,1
 Activity,Sport,PERSON-GOLFING,Person Golfing,1f3cc,1
 Activity,Sport,PERSON-RUNNING,Person Running,1f3c3,1
@@ -115,11 +115,11 @@ Scene,Nature,MOUNTAIN,Mountain,26f0,2
 Scene,Nature,NATIONAL-PARK,National Park,1f3de,1
 Scene,Tropical,PALM-TREE,Palm Tree,1f334,4
 Scene,Nature,SNOW-CAPPED-MOUNTAIN,Snow Capped Mountain,1f3d4,1
-Scene,Weather,SUN,Sun,2600,2
-Scene,Weather,SUN-BEHIND-CLOUD,Sun Behind Cloud,26c5,1
+Symbol,,SUN,Sun,2600,2
+Symbol,,SUN-BEHIND-CLOUD,Sun Behind Cloud,26c5,1
 Scene,Nature,SUNRISE,Sunrise,1f305,6
 Scene,Nature,SUNRISE-OVER-MOUNTAINS,Sunrise Over Mountains,1f304,2
-Scene,Nature,SUNSET,Sunset,1f307,1
+Scene,City,SUNSET,Sunset,1f307,1
 Scene,Landmark,TOKYO-TOWER,Tokyo Tower,1f5fc,3
 Scene,Extreme Element,VOLCANO,Volcano,1f30b,2
 Scene,Tropical,WATER-WAVE,Water Wave,1f30a,7
@@ -143,7 +143,7 @@ Symbol,,EYES,Eyes,1f440,1
 Symbol,,FEMALE-SIGN,Female Sign,2640,3
 Symbol,,FIRE,Fire,1f525,3
 Symbol,,FIRE-ENGINE,Fire Engine,1f692,1
-Scene,City,FIREWORKS,Fireworks,1f386,1
+Symbol,,FIREWORKS,Fireworks,1f386,1
 Symbol,,FIVE-O-CLOCK,Five O Clock,1f554,1
 Symbol,,FLEUR-DE-LIS,Fleur De Lis,269c,1
 Symbol,,FRAMED-PICTURE,Framed Picture,1f5bc,2
@@ -151,7 +151,7 @@ Symbol,,GLOBE-SHOWING-AMERICAS,Globe Showing Americas,1f30e,4
 Symbol,,GLOBE-SHOWING-ASIA-AUSTRALIA,Globe Showing Asia Australia,1f30f,1
 Symbol,,GLOBE-SHOWING-EUROPE-AFRICA,Globe Showing Europe Africa,1f30d,2
 Symbol,,HEAR-NO-EVIL-MONKEY,Hear No Evil Monkey,1f649,1
-Symbol,Heart,HEART-SUIT,Heart Suit,2665,1
+Symbol,,HEART-SUIT,Heart Suit,2665,1
 Symbol,,HIBISCUS,Hibiscus,1f33a,1
 Symbol,,HIGH-VOLTAGE,High Voltage,26a1,1
 Scene,Nature,LEAF-FLUTTERING-IN-WIND,Leaf Fluttering In Wind,1f343,1
@@ -162,14 +162,14 @@ Symbol,,PEACE-SYMBOL,Peace Symbol,262e,1
 Symbol,,PISTOL,Pistol,1f52b,2
 Symbol,,RAINBOW,Rainbow,1f308,1
 Symbol,,RAISED-FIST,Raised Fist,270a,1
-Symbol,Heart,RED-HEART,Red Heart,2764,1
+Symbol,,RED-HEART,Red Heart,2764,1
 Symbol,,RED-PAPER-LANTERN,Red Paper Lantern,1f3ee,2
-Symbol,Rocket,ROCKET,Rocket,1f680,2
+Transport,Air,ROCKET,Rocket,1f680,2
 Symbol,,SEAT,Seat,1f4ba,1
 Symbol,,SEE-NO-EVIL-MONKEY,See No Evil Monkey,1f648,1
 Symbol,,SHAMROCK,Shamrock,2618,1
 Symbol,,SKULL,Skull,1f480,4
-Scene,Weather,SNOWFLAKE,Snowflake,2744,1
+Symbol,,SNOWFLAKE,Snowflake,2744,1
 Symbol,,SPARKLES,Sparkles,2728,1
 Symbol,,SPEAK-NO-EVIL-MONKEY,Speak No Evil Monkey,1f64a,1
 Scene,Landmark,STATUE-OF-LIBERTY,Statue Of Liberty,1f5fd,1
@@ -178,7 +178,7 @@ Symbol,,SUNFLOWER,Sunflower,1f33b,1
 Symbol,,SUNGLASSES,Sunglasses,1f576,1
 Scene,Nature,TENT,Tent,26fa,1
 Symbol,,TROPHY,Trophy,1f3c6,4
-Symbol,Heart,TWO-HEARTS,Two Hearts,1f495,1
+Symbol,,TWO-HEARTS,Two Hearts,1f495,1
 Symbol,,VICTORY-HAND,Victory Hand,270c,1
 Symbol,,WORLD-MAP,World Map,1f5fa,1
 Transport,Air,AIRPLANE,Airplane,2708,3
